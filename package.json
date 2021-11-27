@@ -1,0 +1,22 @@
+{
+  "name": "simple-express",
+  "version": "1.0.0",
+  "description": "simple express site",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [
+    "javascript",
+    "express"
+  ],
+  "author": "Jonathan Potter",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
